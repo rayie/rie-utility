@@ -1,0 +1,15 @@
+{
+	"name": "rie-utility",
+	"version": "0.0.1",
+	"main": "rie-utility.js",
+	"dependencies": {
+		"mailgun-js": "*"
+  },
+  "author": { "name": "https://github.com/rayie" },
+  "license": "MIT",
+  "repository": "rayie/rie-utility",
+  "description": "a filthy brew of (mostly date) utilities for node",
+	"dependencies": {
+		
+	}
+}
