@@ -8,8 +8,5 @@
   "author": { "name": "https://github.com/rayie" },
   "license": "MIT",
   "repository": "rayie/rie-utility",
-  "description": "a filthy brew of (mostly date) utilities for node",
-	"dependencies": {
-		
-	}
+  "description": "a filthy brew of (mostly date) utilities for node"
 }
